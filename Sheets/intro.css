@@ -1,0 +1,9 @@
+html{
+    scroll-behavior: smooth;
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+    font-weight: bold;
+}
